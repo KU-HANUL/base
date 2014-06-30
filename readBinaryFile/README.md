@@ -1,1 +1,1 @@
-See [[https://github.com/HANUL/base/wiki/readBinaryFile]] for detail.
+* See <https://github.com/KU-HANUL/base/wiki/readBinaryFile> for detail.
