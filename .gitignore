@@ -1,4 +1,4 @@
 *.root
 *.dat
 
-!test_temp.root
+!test_temp.dat
