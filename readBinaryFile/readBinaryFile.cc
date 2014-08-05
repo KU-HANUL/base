@@ -82,5 +82,7 @@ int main( int argc, char* argv[] )
   fclose(fp);
   cout << "=========================================================" << endl << endl;
 
+  file -> Close();
+
   return 0;
 }
